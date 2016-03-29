@@ -1,0 +1,58 @@
+header{
+  width: 100%;
+  height: 50px;
+  background: #000;
+}
+h1{
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 46px;
+}
+p{
+  color:#545454;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+.author{
+    color: #29557d;
+}
+#content{
+  padding: 0 30px;
+}
+hr{
+  padding: 30px;
+}
+#chartdiv{
+  max-width	: 800px;
+	height: 300px;
+}
+#mapdiv {
+    height: 500px;
+    min-width: 310px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+#tablediv{
+  padding: 30px;
+}
+
+#infodiv{
+  padding: 30px;
+}
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+tbody tr {
+   height: 40px;
+   border-bottom: solid 1px #F5F5F5;
+}
+tbody tr:hover {
+   background-color: #F3F3F3;
+}
+.highlight{
+  font-weight: bold;
+  font-size: 1.5em;
+  color:#000;
+}

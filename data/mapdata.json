@@ -1,0 +1,507 @@
+[
+  {
+    "County": "ALAMANCE",
+    "hc-key": "us-nc-001",
+    "value": 6
+  },
+  {
+    "County": "ALEXANDER",
+    "hc-key": "us-nc-003",
+    "value": 6
+  },
+  {
+    "County": "ALLEGHANY",
+    "hc-key": "us-nc-005",
+    "value": 3
+  },
+  {
+    "County": "ANSON",
+    "hc-key": "us-nc-007",
+    "value": 4
+  },
+  {
+    "County": "ASHE",
+    "hc-key": "us-nc-009",
+    "value": 0
+  },
+  {
+    "County": "AVERY",
+    "hc-key": "us-nc-011",
+    "value": 1
+  },
+  {
+    "County": "BEAUFORT",
+    "hc-key": "us-nc-013",
+    "value": 30
+  },
+  {
+    "County": "BERTIE",
+    "hc-key": "us-nc-015",
+    "value": 23
+  },
+  {
+    "County": "BLADEN",
+    "hc-key": "us-nc-017",
+    "value": 22
+  },
+  {
+    "County": "BRUNSWICK",
+    "hc-key": "us-nc-019",
+    "value": 23
+  },
+  {
+    "County": "BUNCOMBE",
+    "hc-key": "us-nc-021",
+    "value": 4
+  },
+  {
+    "County": "BURKE",
+    "hc-key": "us-nc-023",
+    "value": 6
+  },
+  {
+    "County": "CABARRUS",
+    "hc-key": "us-nc-025",
+    "value": 11
+  },
+  {
+    "County": "CALDWELL",
+    "hc-key": "us-nc-027",
+    "value": 8
+  },
+  {
+    "County": "CAMDEN",
+    "hc-key": "us-nc-029",
+    "value": 2
+  },
+  {
+    "County": "CARTERET",
+    "hc-key": "us-nc-031",
+    "value": 63
+  },
+  {
+    "County": "CASWELL",
+    "hc-key": "us-nc-033",
+    "value": 4
+  },
+  {
+    "County": "CATAWBA",
+    "hc-key": "us-nc-035",
+    "value": 14
+  },
+  {
+    "County": "CHATHAM",
+    "hc-key": "us-nc-037",
+    "value": 9
+  },
+  {
+    "County": "CHEROKEE",
+    "hc-key": "us-nc-039",
+    "value": 8
+  },
+  {
+    "County": "CHOWAN",
+    "hc-key": "us-nc-041",
+    "value": 10
+  },
+  {
+    "County": "CLAY",
+    "hc-key": "us-nc-043",
+    "value": 4
+  },
+  {
+    "County": "CLEVELAND",
+    "hc-key": "us-nc-045",
+    "value": 20
+  },
+  {
+    "County": "COLUMBUS",
+    "hc-key": "us-nc-047",
+    "value": 25
+  },
+  {
+    "County": "CRAVEN",
+    "hc-key": "us-nc-049",
+    "value": 31
+  },
+  {
+    "County": "CUMBERLAND",
+    "hc-key": "us-nc-051",
+    "value": 16
+  },
+  {
+    "County": "CURRITUCK",
+    "hc-key": "us-nc-053",
+    "value": 8
+  },
+  {
+    "County": "DARE",
+    "hc-key": "us-nc-055",
+    "value": 38
+  },
+  {
+    "County": "DAVIDSON",
+    "hc-key": "us-nc-057",
+    "value": 5
+  },
+  {
+    "County": "DAVIE",
+    "hc-key": "us-nc-059",
+    "value": 1
+  },
+  {
+    "County": "DUPLIN",
+    "hc-key": "us-nc-061",
+    "value": 35
+  },
+  {
+    "County": "DURHAM",
+    "hc-key": "us-nc-063",
+    "value": 7
+  },
+  {
+    "County": "EDGECOMBE",
+    "hc-key": "us-nc-065",
+    "value": 5
+  },
+  {
+    "County": "FORSYTH",
+    "hc-key": "us-nc-067",
+    "value": 14
+  },
+  {
+    "County": "FRANKLIN",
+    "hc-key": "us-nc-069",
+    "value": 7
+  },
+  {
+    "County": "GASTON",
+    "hc-key": "us-nc-071",
+    "value": 14
+  },
+  {
+    "County": "GATES",
+    "hc-key": "us-nc-073",
+    "value": 3
+  },
+  {
+    "County": "GRAHAM",
+    "hc-key": "us-nc-075",
+    "value": 1
+  },
+  {
+    "County": "GRANVILLE",
+    "hc-key": "us-nc-077",
+    "value": 7
+  },
+  {
+    "County": "GREENE",
+    "hc-key": "us-nc-079",
+    "value": 15
+  },
+  {
+    "County": "GUILFORD",
+    "hc-key": "us-nc-081",
+    "value": 12
+  },
+  {
+    "County": "HALIFAX",
+    "hc-key": "us-nc-083",
+    "value": 12
+  },
+  {
+    "County": "HARNETT",
+    "hc-key": "us-nc-085",
+    "value": 23
+  },
+  {
+    "County": "HAYWOOD",
+    "hc-key": "us-nc-087",
+    "value": 2
+  },
+  {
+    "County": "HENDERSON",
+    "hc-key": "us-nc-089",
+    "value": 3
+  },
+  {
+    "County": "HERTFORD",
+    "hc-key": "us-nc-091",
+    "value": 12
+  },
+  {
+    "County": "HOKE",
+    "hc-key": "us-nc-093",
+    "value": 10
+  },
+  {
+    "County": "HYDE",
+    "hc-key": "us-nc-095",
+    "value": 19
+  },
+  {
+    "County": "IREDELL",
+    "hc-key": "us-nc-097",
+    "value": 14
+  },
+  {
+    "County": "JACKSON",
+    "hc-key": "us-nc-099",
+    "value": 3
+  },
+  {
+    "County": "JOHNSTON",
+    "hc-key": "us-nc-101",
+    "value": 19
+  },
+  {
+    "County": "JONES",
+    "hc-key": "us-nc-103",
+    "value": 14
+  },
+  {
+    "County": "LEE",
+    "hc-key": "us-nc-105",
+    "value": 3
+  },
+  {
+    "County": "LENOIR",
+    "hc-key": "us-nc-107",
+    "value": 24
+  },
+  {
+    "County": "LINCOLN",
+    "hc-key": "us-nc-109",
+    "value": 17
+  },
+  {
+    "County": "MACON",
+    "hc-key": "us-nc-111",
+    "value": 4
+  },
+  {
+    "County": "MADISON",
+    "hc-key": "us-nc-113",
+    "value": 5
+  },
+  {
+    "County": "MARTIN",
+    "hc-key": "us-nc-115",
+    "value": 16
+  },
+  {
+    "County": "MCDOWELL",
+    "hc-key": "us-nc-117",
+    "value": 4
+  },
+  {
+    "County": "MECKLENBURG",
+    "hc-key": "us-nc-119",
+    "value": 21
+  },
+  {
+    "County": "MITCHELL",
+    "hc-key": "us-nc-121",
+    "value": 0
+  },
+  {
+    "County": "MONTGOMERY",
+    "hc-key": "us-nc-123",
+    "value": 7
+  },
+  {
+    "County": "MOORE",
+    "hc-key": "us-nc-125",
+    "value": 15
+  },
+  {
+    "County": "NASH",
+    "hc-key": "us-nc-127",
+    "value": 12
+  },
+  {
+    "County": "NEW HANOVER",
+    "hc-key": "us-nc-129",
+    "value": 17
+  },
+  {
+    "County": "NORTHAMPTON",
+    "hc-key": "us-nc-131",
+    "value": 12
+  },
+  {
+    "County": "ONSLOW",
+    "hc-key": "us-nc-133",
+    "value": 44
+  },
+  {
+    "County": "ORANGE",
+    "hc-key": "us-nc-135",
+    "value": 7
+  },
+  {
+    "County": "PAMLICO",
+    "hc-key": "us-nc-137",
+    "value": 13
+  },
+  {
+    "County": "PASQUOTANK",
+    "hc-key": "us-nc-139",
+    "value": 17
+  },
+  {
+    "County": "PENDER",
+    "hc-key": "us-nc-141",
+    "value": 29
+  },
+  {
+    "County": "PERQUIMANS",
+    "hc-key": "us-nc-143",
+    "value": 7
+  },
+  {
+    "County": "PERSON",
+    "hc-key": "us-nc-145",
+    "value": 11
+  },
+  {
+    "County": "PITT",
+    "hc-key": "us-nc-147",
+    "value": 30
+  },
+  {
+    "County": "POLK",
+    "hc-key": "us-nc-149",
+    "value": 3
+  },
+  {
+    "County": "RANDOLPH",
+    "hc-key": "us-nc-151",
+    "value": 13
+  },
+  {
+    "County": "RICHMOND",
+    "hc-key": "us-nc-153",
+    "value": 3
+  },
+  {
+    "County": "ROBESON",
+    "hc-key": "us-nc-155",
+    "value": 39
+  },
+  {
+    "County": "ROCKINGHAM",
+    "hc-key": "us-nc-157",
+    "value": 7
+  },
+  {
+    "County": "ROWAN",
+    "hc-key": "us-nc-159",
+    "value": 9
+  },
+  {
+    "County": "RUTHERFORD",
+    "hc-key": "us-nc-161",
+    "value": 8
+  },
+  {
+    "County": "SAMPSON",
+    "hc-key": "us-nc-163",
+    "value": 13
+  },
+  {
+    "County": "SCOTLAND",
+    "hc-key": "us-nc-165",
+    "value": 11
+  },
+  {
+    "County": "STANLY",
+    "hc-key": "us-nc-167",
+    "value": 11
+  },
+  {
+    "County": "STOKES",
+    "hc-key": "us-nc-169",
+    "value": 7
+  },
+  {
+    "County": "SURRY",
+    "hc-key": "us-nc-171",
+    "value": 6
+  },
+  {
+    "County": "SWAIN",
+    "hc-key": "us-nc-173",
+    "value": 2
+  },
+  {
+    "County": "TRANSYLVANIA",
+    "hc-key": "us-nc-175",
+    "value": 3
+  },
+  {
+    "County": "TYRRELL",
+    "hc-key": "us-nc-177",
+    "value": 13
+  },
+  {
+    "County": "UNION",
+    "hc-key": "us-nc-179",
+    "value": 18
+  },
+  {
+    "County": "VANCE",
+    "hc-key": "us-nc-181",
+    "value": 6
+  },
+  {
+    "County": "WAKE",
+    "hc-key": "us-nc-183",
+    "value": 31
+  },
+  {
+    "County": "WARREN",
+    "hc-key": "us-nc-185",
+    "value": 4
+  },
+  {
+    "County": "WASHINGTON",
+    "hc-key": "us-nc-187",
+    "value": 10
+  },
+  {
+    "County": "WATAUGA",
+    "hc-key": "us-nc-189",
+    "value": 2
+  },
+  {
+    "County": "WAYNE",
+    "hc-key": "us-nc-191",
+    "value": 23
+  },
+  {
+    "County": "WILKES",
+    "hc-key": "us-nc-193",
+    "value": 6
+  },
+  {
+    "County": "WILSON",
+    "hc-key": "us-nc-195",
+    "value": 13
+  },
+  {
+    "County": "YADKIN",
+    "hc-key": "us-nc-197",
+    "value": 8
+  },
+  {
+    "County": "YANCEY",
+    "hc-key": "us-nc-199",
+    "value": 1
+  },
+  {
+    "County": 0,
+    "hc-key": 0,
+    "value": 6
+  }
+]

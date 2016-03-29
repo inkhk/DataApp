@@ -1,0 +1,3714 @@
+[
+  {
+    "Date": "2/14/00",
+    "Time": "05:00:00",
+    "County": "Lenoir",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "2/14/00",
+    "Time": "05:07:00",
+    "County": "Martin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/16/00",
+    "Time": "21:10:00",
+    "County": "Pender",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/16/00",
+    "Time": "22:30:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/16/00",
+    "Time": "23:10:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/15/00",
+    "Time": "10:45:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/15/00",
+    "Time": "11:17:00",
+    "County": "Craven",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "4/15/00",
+    "Time": "11:45:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/00",
+    "Time": "13:30:00",
+    "County": "Pender",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/00",
+    "Time": "11:45:00",
+    "County": "Pender",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/21/00",
+    "Time": "16:20:00",
+    "County": "Duplin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/21/00",
+    "Time": "16:33:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/24/00",
+    "Time": "15:46:00",
+    "County": "Burke",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/24/00",
+    "Time": "15:50:00",
+    "County": "McDowell",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/24/00",
+    "Time": "16:20:00",
+    "County": "Rutherford",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/28/00",
+    "Time": "11:06:00",
+    "County": "Cumberland",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/19/00",
+    "Time": "12:05:00",
+    "County": "Orange",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/22/00",
+    "Time": "14:49:00",
+    "County": "Perquimans",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/24/00",
+    "Time": "11:57:00",
+    "County": "Currituck",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/18/00",
+    "Time": "14:37:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "12/16/00",
+    "Time": "23:00:00",
+    "County": "Cumberland",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "12/16/00",
+    "Time": "23:10:00",
+    "County": "Harnett",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "12/16/00",
+    "Time": "23:15:00",
+    "County": "Harnett",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/1/01",
+    "Time": "13:15:00",
+    "County": "Pender",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/1/01",
+    "Time": "14:30:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/17/01",
+    "Time": "14:00:00",
+    "County": "Carteret",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/17/01",
+    "Time": "14:16:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/19/01",
+    "Time": "17:25:00",
+    "County": "Vance",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/19/01",
+    "Time": "17:45:00",
+    "County": "Warren",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/28/01",
+    "Time": "11:33:00",
+    "County": "Dare",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/1/01",
+    "Time": "12:00:00",
+    "County": "Wake",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/1/01",
+    "Time": "17:00:00",
+    "County": "Hertford",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 3
+  },
+  {
+    "Date": "7/4/01",
+    "Time": "18:38:00",
+    "County": "Union",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/18/01",
+    "Time": "12:45:00",
+    "County": "Robeson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/11/01",
+    "Time": "12:48:00",
+    "County": "Brunswick",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/24/01",
+    "Time": "16:00:00",
+    "County": "Bertie",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/13/02",
+    "Time": "19:25:00",
+    "County": "Martin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/24/02",
+    "Time": "15:55:00",
+    "County": "Brunswick",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/26/02",
+    "Time": "07:05:00",
+    "County": "Dare",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/10/02",
+    "Time": "10:05:00",
+    "County": "Hyde",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/11/02",
+    "Time": "00:05:00",
+    "County": "Johnston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/11/02",
+    "Time": "00:10:00",
+    "County": "Wilson",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/11/02",
+    "Time": "11:15:00",
+    "County": "Pitt",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/11/02",
+    "Time": "11:38:00",
+    "County": "Edgecombe",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/11/02",
+    "Time": "15:38:00",
+    "County": "Beaufort",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/11/02",
+    "Time": "16:45:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/11/02",
+    "Time": "17:40:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "2/22/03",
+    "Time": "16:55:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "15:10:00",
+    "County": "Northampton",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "15:20:00",
+    "County": "Hertford",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "15:50:00",
+    "County": "Bertie",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "16:00:00",
+    "County": "Chowan",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "16:08:00",
+    "County": "Vance",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "16:30:00",
+    "County": "Warren",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "16:42:00",
+    "County": "Washington",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "17:20:00",
+    "County": "Nash",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/03",
+    "Time": "19:10:00",
+    "County": "Greene",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/10/03",
+    "Time": "19:42:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/15/03",
+    "Time": "16:20:00",
+    "County": "Lincoln",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/27/03",
+    "Time": "12:37:00",
+    "County": "Pender",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/27/03",
+    "Time": "16:30:00",
+    "County": "Davie",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/31/03",
+    "Time": "15:00:00",
+    "County": "Anson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/31/03",
+    "Time": "16:15:00",
+    "County": "Chatham",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/7/03",
+    "Time": "18:55:00",
+    "County": "Currituck",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 2
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "08:55:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "09:10:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "10:06:00",
+    "County": "Columbus",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "10:55:00",
+    "County": "Onslow",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "11:10:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "11:49:00",
+    "County": "Moore",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "12:40:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "12:53:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "13:00:00",
+    "County": "Jones",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "18:00:00",
+    "County": "Bladen",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/03",
+    "Time": "19:30:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/12/03",
+    "Time": "18:25:00",
+    "County": "Cleveland",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/12/03",
+    "Time": "19:00:00",
+    "County": "Gaston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/19/03",
+    "Time": "12:58:00",
+    "County": "Stokes",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/6/03",
+    "Time": "10:30:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/6/03",
+    "Time": "15:45:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/14/03",
+    "Time": "10:01:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/16/03",
+    "Time": "17:30:00",
+    "County": "Lincoln",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/19/03",
+    "Time": "13:10:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/13/04",
+    "Time": "12:35:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/2/04",
+    "Time": "15:15:00",
+    "County": "Harnett",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/4/04",
+    "Time": "09:41:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/4/04",
+    "Time": "10:03:00",
+    "County": "Wayne",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/4/04",
+    "Time": "10:50:00",
+    "County": "Wilson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/4/04",
+    "Time": "12:09:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/4/04",
+    "Time": "12:15:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/4/04",
+    "Time": "13:35:00",
+    "County": "Martin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/4/04",
+    "Time": "16:15:00",
+    "County": "Tyrrell",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "6/7/04",
+    "Time": "09:53:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/7/04",
+    "Time": "16:25:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/11/04",
+    "Time": "20:00:00",
+    "County": "Chowan",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/11/04",
+    "Time": "20:43:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/11/04",
+    "Time": "21:00:00",
+    "County": "Tyrrell",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/22/04",
+    "Time": "08:30:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/23/04",
+    "Time": "18:35:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/23/04",
+    "Time": "19:17:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/23/04",
+    "Time": "19:30:00",
+    "County": "Pamlico",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/29/04",
+    "Time": "17:25:00",
+    "County": "Lenoir",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/17/04",
+    "Time": "15:19:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/17/04",
+    "Time": "15:25:00",
+    "County": "Carteret",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/12/04",
+    "Time": "12:40:00",
+    "County": "Scotland",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/12/04",
+    "Time": "13:47:00",
+    "County": "Harnett",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 4
+  },
+  {
+    "Date": "8/12/04",
+    "Time": "14:25:00",
+    "County": "Rockingham",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/13/04",
+    "Time": "01:55:00",
+    "County": "Pender",
+    "Fujita": 2,
+    "Fatalities": 3,
+    "Injuries": 29
+  },
+  {
+    "Date": "8/13/04",
+    "Time": "03:11:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/13/04",
+    "Time": "03:53:00",
+    "County": "Carteret",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 3
+  },
+  {
+    "Date": "8/13/04",
+    "Time": "05:00:00",
+    "County": "Beaufort",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/14/04",
+    "Time": "11:30:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/14/04",
+    "Time": "13:40:00",
+    "County": "Hyde",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/14/04",
+    "Time": "14:00:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/14/04",
+    "Time": "14:15:00",
+    "County": "Tyrrell",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/14/04",
+    "Time": "16:15:00",
+    "County": "Dare",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/15/04",
+    "Time": "12:23:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/29/04",
+    "Time": "08:10:00",
+    "County": "Scotland",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/29/04",
+    "Time": "10:45:00",
+    "County": "Harnett",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/29/04",
+    "Time": "13:25:00",
+    "County": "Hoke",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "09:43:00",
+    "County": "York",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "09:43:00",
+    "County": "York",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "09:45:00",
+    "County": "Mecklenburg",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "11:38:00",
+    "County": "Columbus",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "12:24:00",
+    "County": "Anson",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "12:47:00",
+    "County": "Robeson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "13:53:00",
+    "County": "Robeson",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "13:56:00",
+    "County": "Hoke",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/7/04",
+    "Time": "16:10:00",
+    "County": "Robeson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/8/04",
+    "Time": "02:55:00",
+    "County": "Hoke",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/8/04",
+    "Time": "06:30:00",
+    "County": "Northampton",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/8/04",
+    "Time": "09:25:00",
+    "County": "Moore",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/8/04",
+    "Time": "09:30:00",
+    "County": "Lee",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/8/04",
+    "Time": "10:45:00",
+    "County": "Orange",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/8/04",
+    "Time": "11:20:00",
+    "County": "Harnett",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/10/04",
+    "Time": "13:28:00",
+    "County": "Brunswick",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/10/04",
+    "Time": "13:45:00",
+    "County": "Brunswick",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/17/04",
+    "Time": "04:05:00",
+    "County": "Cleveland",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/17/04",
+    "Time": "09:09:00",
+    "County": "Guilford",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/17/04",
+    "Time": "10:55:00",
+    "County": "Moore",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/17/04",
+    "Time": "11:25:00",
+    "County": "Chatham",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/27/04",
+    "Time": "15:41:00",
+    "County": "Moore",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/27/04",
+    "Time": "16:20:00",
+    "County": "Moore",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/27/04",
+    "Time": "17:30:00",
+    "County": "Wake",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/27/04",
+    "Time": "17:45:00",
+    "County": "Richmond",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/27/04",
+    "Time": "18:00:00",
+    "County": "Martin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/27/04",
+    "Time": "18:10:00",
+    "County": "Montgomery",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/27/04",
+    "Time": "21:00:00",
+    "County": "Cleveland",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/13/04",
+    "Time": "10:50:00",
+    "County": "Jones",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/13/04",
+    "Time": "11:20:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/13/04",
+    "Time": "12:00:00",
+    "County": "Pamlico",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/13/04",
+    "Time": "12:30:00",
+    "County": "Pamlico",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "1/14/05",
+    "Time": "00:45:00",
+    "County": "Rowan",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "1/14/05",
+    "Time": "03:45:00",
+    "County": "Orange",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/8/05",
+    "Time": "06:15:00",
+    "County": "Gaston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/8/05",
+    "Time": "06:40:00",
+    "County": "Mecklenburg",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/20/05",
+    "Time": "16:10:00",
+    "County": "Columbus",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/25/05",
+    "Time": "16:40:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/05",
+    "Time": "13:15:00",
+    "County": "Camden",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "08:52:00",
+    "County": "Rutherford",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "11:10:00",
+    "County": "Alexander",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "12:10:00",
+    "County": "Iredell",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "12:15:00",
+    "County": "Yadkin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "12:41:00",
+    "County": "Yadkin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "12:53:00",
+    "County": "Yadkin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "13:30:00",
+    "County": "Forsyth",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "13:42:00",
+    "County": "Person",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "15:20:00",
+    "County": "Guilford",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/7/05",
+    "Time": "18:40:00",
+    "County": "Harnett",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/13/05",
+    "Time": "11:35:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/13/05",
+    "Time": "14:40:00",
+    "County": "Lincoln",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/29/05",
+    "Time": "16:57:00",
+    "County": "Pasquotank",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/27/05",
+    "Time": "13:15:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/30/05",
+    "Time": "19:30:00",
+    "County": "Macon",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/22/05",
+    "Time": "01:00:00",
+    "County": "Lenoir",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "1/13/06",
+    "Time": "19:06:00",
+    "County": "Gaston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "1/14/06",
+    "Time": "00:39:00",
+    "County": "Greene",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "1/14/06",
+    "Time": "00:48:00",
+    "County": "Greene",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "1/14/06",
+    "Time": "02:12:00",
+    "County": "Perquimans",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/17/06",
+    "Time": "15:05:00",
+    "County": "Columbus",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/17/06",
+    "Time": "15:30:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "12:49:00",
+    "County": "Cabarrus",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "15:06:00",
+    "County": "Washington",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "16:10:00",
+    "County": "Durham",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "16:43:00",
+    "County": "Franklin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "17:15:00",
+    "County": "Nash",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "17:45:00",
+    "County": "Lee",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "18:25:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "18:46:00",
+    "County": "Martin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/06",
+    "Time": "19:25:00",
+    "County": "Tyrrell",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/26/06",
+    "Time": "16:14:00",
+    "County": "Gaston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/14/06",
+    "Time": "10:40:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/14/06",
+    "Time": "12:40:00",
+    "County": "Dare",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/1/06",
+    "Time": "10:30:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/23/06",
+    "Time": "16:50:00",
+    "County": "Duplin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/23/06",
+    "Time": "17:30:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/27/06",
+    "Time": "13:29:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/31/06",
+    "Time": "16:25:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/31/06",
+    "Time": "17:05:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/31/06",
+    "Time": "19:30:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/06",
+    "Time": "21:51:00",
+    "County": "Gaston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/06",
+    "Time": "22:15:00",
+    "County": "Lincoln",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/06",
+    "Time": "22:22:00",
+    "County": "Lincoln",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/06",
+    "Time": "22:45:00",
+    "County": "Iredell",
+    "Fujita": 1,
+    "Fatalities": 1,
+    "Injuries": 1
+  },
+  {
+    "Date": "11/16/06",
+    "Time": "05:37:00",
+    "County": "Columbus",
+    "Fujita": 3,
+    "Fatalities": 8,
+    "Injuries": 20
+  },
+  {
+    "Date": "11/16/06",
+    "Time": "05:41:00",
+    "County": "Pender",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "1/5/07",
+    "Time": "15:39:00",
+    "County": "Gaston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/2/07",
+    "Time": "07:40:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/11/07",
+    "Time": "17:00:00",
+    "County": "Beaufort",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/15/07",
+    "Time": "06:06:00",
+    "County": "Dare",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/17/07",
+    "Time": "19:13:00",
+    "County": "Duplin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/17/07",
+    "Time": "19:15:00",
+    "County": "Duplin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/14/07",
+    "Time": "12:36:00",
+    "County": "Forsyth",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/14/07",
+    "Time": "14:23:00",
+    "County": "Davidson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/14/07",
+    "Time": "16:10:00",
+    "County": "Harnett",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/14/07",
+    "Time": "16:15:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/14/07",
+    "Time": "16:44:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/14/07",
+    "Time": "16:50:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/14/07",
+    "Time": "17:25:00",
+    "County": "Wake",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "2/18/08",
+    "Time": "02:45:00",
+    "County": "Greene",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 3
+  },
+  {
+    "Date": "2/18/08",
+    "Time": "03:30:00",
+    "County": "Pitt",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "2/18/08",
+    "Time": "03:50:00",
+    "County": "Martin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/4/08",
+    "Time": "15:54:00",
+    "County": "Alamance",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/4/08",
+    "Time": "19:17:00",
+    "County": "Davie",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/4/08",
+    "Time": "19:50:00",
+    "County": "Halifax",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/15/08",
+    "Time": "16:16:00",
+    "County": "Columbus",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/15/08",
+    "Time": "17:56:00",
+    "County": "Pender",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/5/08",
+    "Time": "01:55:00",
+    "County": "Lenoir",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/12/08",
+    "Time": "13:12:00",
+    "County": "Wayne",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/12/08",
+    "Time": "13:22:00",
+    "County": "Wayne",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/12/08",
+    "Time": "13:59:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/19/08",
+    "Time": "18:07:00",
+    "County": "Cleveland",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/19/08",
+    "Time": "18:21:00",
+    "County": "Lincoln",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/20/08",
+    "Time": "13:45:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/20/08",
+    "Time": "14:38:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/20/08",
+    "Time": "17:05:00",
+    "County": "Bertie",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/08",
+    "Time": "07:30:00",
+    "County": "Cleveland",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/08",
+    "Time": "15:25:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/08",
+    "Time": "15:40:00",
+    "County": "Hyde",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/8/08",
+    "Time": "20:15:00",
+    "County": "Davie",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/8/08",
+    "Time": "20:25:00",
+    "County": "Forsyth",
+    "Fujita": 3,
+    "Fatalities": 0,
+    "Injuries": 2
+  },
+  {
+    "Date": "5/8/08",
+    "Time": "21:29:00",
+    "County": "Guilford",
+    "Fujita": 2,
+    "Fatalities": 1,
+    "Injuries": 3
+  },
+  {
+    "Date": "5/9/08",
+    "Time": "00:10:00",
+    "County": "Gaston",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/08",
+    "Time": "06:29:00",
+    "County": "Bertie",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/9/08",
+    "Time": "07:30:00",
+    "County": "Pasquotank",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "14:30:00",
+    "County": "Burke",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "14:48:00",
+    "County": "Lincoln",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "16:03:00",
+    "County": "New Hanover",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "16:19:00",
+    "County": "Cabarrus",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "16:25:00",
+    "County": "Bertie",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 2
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "16:57:00",
+    "County": "Onslow",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 6
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "17:28:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "18:06:00",
+    "County": "Carteret",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "18:17:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/11/08",
+    "Time": "18:27:00",
+    "County": "Carteret",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/23/08",
+    "Time": "15:34:00",
+    "County": "Jones",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/7/08",
+    "Time": "15:15:00",
+    "County": "Jones",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/27/08",
+    "Time": "10:30:00",
+    "County": "Randolph",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/27/08",
+    "Time": "11:05:00",
+    "County": "Pender",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/27/08",
+    "Time": "11:44:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/27/08",
+    "Time": "11:50:00",
+    "County": "Wilson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/27/08",
+    "Time": "14:08:00",
+    "County": "Chatham",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/27/08",
+    "Time": "22:57:00",
+    "County": "Wayne",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/25/08",
+    "Time": "14:15:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/25/08",
+    "Time": "23:00:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/26/08",
+    "Time": "08:53:00",
+    "County": "Bertie",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/08",
+    "Time": "00:35:00",
+    "County": "Robeson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/08",
+    "Time": "01:15:00",
+    "County": "Sampson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/08",
+    "Time": "01:42:00",
+    "County": "Johnston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/08",
+    "Time": "02:03:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/15/08",
+    "Time": "02:10:00",
+    "County": "Johnston",
+    "Fujita": 2,
+    "Fatalities": 1,
+    "Injuries": 2
+  },
+  {
+    "Date": "11/15/08",
+    "Time": "02:30:00",
+    "County": "Wilson",
+    "Fujita": 3,
+    "Fatalities": 1,
+    "Injuries": 4
+  },
+  {
+    "Date": "11/15/08",
+    "Time": "03:30:00",
+    "County": "Martin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "12/11/08",
+    "Time": "14:50:00",
+    "County": "Cabarrus",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "14:32:00",
+    "County": "Robeson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "15:02:00",
+    "County": "Robeson",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "15:13:00",
+    "County": "Cumberland",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "16:05:00",
+    "County": "Pitt",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "16:05:00",
+    "County": "Greene",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "16:35:00",
+    "County": "Sampson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "16:40:00",
+    "County": "Sampson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "16:41:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/27/09",
+    "Time": "17:20:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/28/09",
+    "Time": "19:08:00",
+    "County": "Bladen",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/28/09",
+    "Time": "19:36:00",
+    "County": "Bladen",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/6/09",
+    "Time": "08:40:00",
+    "County": "Bladen",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/6/09",
+    "Time": "09:35:00",
+    "County": "Gates",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/6/09",
+    "Time": "09:45:00",
+    "County": "Brunswick",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/11/09",
+    "Time": "00:40:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/3/09",
+    "Time": "18:38:00",
+    "County": "Rockingham",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/5/09",
+    "Time": "13:28:00",
+    "County": "Duplin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/5/09",
+    "Time": "13:34:00",
+    "County": "Duplin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/5/09",
+    "Time": "14:05:00",
+    "County": "Lenoir",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/5/09",
+    "Time": "14:25:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/5/09",
+    "Time": "14:44:00",
+    "County": "Wilson",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "5/5/09",
+    "Time": "15:25:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/5/09",
+    "Time": "15:26:00",
+    "County": "Johnston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/5/09",
+    "Time": "15:30:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/7/09",
+    "Time": "16:25:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/7/09",
+    "Time": "16:27:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/7/09",
+    "Time": "17:00:00",
+    "County": "Onslow",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/8/09",
+    "Time": "21:44:00",
+    "County": "Alleghany",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 6
+  },
+  {
+    "Date": "5/8/09",
+    "Time": "21:46:00",
+    "County": "Alleghany",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/16/09",
+    "Time": "15:42:00",
+    "County": "Cleveland",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/16/09",
+    "Time": "16:00:00",
+    "County": "Cleveland",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/17/09",
+    "Time": "15:23:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/17/09",
+    "Time": "18:12:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/28/10",
+    "Time": "15:37:00",
+    "County": "Gaston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/28/10",
+    "Time": "16:46:00",
+    "County": "Rowan",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 5
+  },
+  {
+    "Date": "3/28/10",
+    "Time": "17:15:00",
+    "County": "Davidson",
+    "Fujita": 3,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/28/10",
+    "Time": "21:55:00",
+    "County": "Person",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/10",
+    "Time": "01:00:00",
+    "County": "Clay",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/10",
+    "Time": "17:59:00",
+    "County": "Wake",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/13/10",
+    "Time": "14:50:00",
+    "County": "Lincoln",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/13/10",
+    "Time": "14:59:00",
+    "County": "Lincoln",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/20/10",
+    "Time": "15:15:00",
+    "County": "Pasquotank",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/26/10",
+    "Time": "19:38:00",
+    "County": "Surry",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/27/10",
+    "Time": "21:13:00",
+    "County": "Burke",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/29/10",
+    "Time": "20:15:00",
+    "County": "Washington",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/26/10",
+    "Time": "17:08:00",
+    "County": "Lincoln",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 11
+  },
+  {
+    "Date": "10/26/10",
+    "Time": "17:12:00",
+    "County": "Catawba",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/26/10",
+    "Time": "17:44:00",
+    "County": "Catawba",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/26/10",
+    "Time": "18:03:00",
+    "County": "Polk",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/26/10",
+    "Time": "18:15:00",
+    "County": "Rutherford",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/26/10",
+    "Time": "21:14:00",
+    "County": "Stokes",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/26/10",
+    "Time": "21:35:00",
+    "County": "Catawba",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/26/10",
+    "Time": "21:36:00",
+    "County": "Iredell",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/27/10",
+    "Time": "13:58:00",
+    "County": "Person",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/27/10",
+    "Time": "14:13:00",
+    "County": "Person",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/27/10",
+    "Time": "15:30:00",
+    "County": "Orange",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/27/10",
+    "Time": "16:15:00",
+    "County": "Granville",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/27/10",
+    "Time": "16:50:00",
+    "County": "Vance",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/27/10",
+    "Time": "17:05:00",
+    "County": "Stokes",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/6/11",
+    "Time": "16:10:00",
+    "County": "Wake",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "3/6/11",
+    "Time": "17:17:00",
+    "County": "Wilson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/6/11",
+    "Time": "17:17:00",
+    "County": "Greene",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/4/11",
+    "Time": "23:25:00",
+    "County": "Surry",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/9/11",
+    "Time": "14:50:00",
+    "County": "Cleveland",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 3
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "10:41:00",
+    "County": "Rowan",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "10:59:00",
+    "County": "Union",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "12:06:00",
+    "County": "Alamance",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "12:40:00",
+    "County": "Person",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 6
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "12:40:00",
+    "County": "Person",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 2
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "12:50:00",
+    "County": "Halifax",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 4
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "12:53:00",
+    "County": "Moore",
+    "Fujita": 3,
+    "Fatalities": 6,
+    "Injuries": 103
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "13:33:00",
+    "County": "Hoke",
+    "Fujita": 3,
+    "Fatalities": 2,
+    "Injuries": 176
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "13:33:00",
+    "County": "Robeson",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "13:47:00",
+    "County": "Robeson",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "14:25:00",
+    "County": "Bladen",
+    "Fujita": 2,
+    "Fatalities": 3,
+    "Injuries": 13
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "14:50:00",
+    "County": "Johnston",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "14:58:00",
+    "County": "Bladen",
+    "Fujita": 2,
+    "Fatalities": 1,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "15:12:00",
+    "County": "Wilson",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 10
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "15:12:00",
+    "County": "Duplin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "15:20:00",
+    "County": "Halifax",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "15:32:00",
+    "County": "Wayne",
+    "Fujita": 3,
+    "Fatalities": 0,
+    "Injuries": 30
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "15:33:00",
+    "County": "Columbus",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "15:59:00",
+    "County": "Pitt",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 5
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "16:05:00",
+    "County": "Columbus",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "16:35:00",
+    "County": "Duplin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "16:55:00",
+    "County": "Bertie",
+    "Fujita": 3,
+    "Fatalities": 12,
+    "Injuries": 58
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "17:05:00",
+    "County": "Bertie",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 8
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "17:07:00",
+    "County": "Jones",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "17:09:00",
+    "County": "Martin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "17:40:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "18:08:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "18:11:00",
+    "County": "Onslow",
+    "Fujita": 3,
+    "Fatalities": 0,
+    "Injuries": 30
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "18:43:00",
+    "County": "Craven",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 7
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "18:52:00",
+    "County": "Pamlico",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "19:01:00",
+    "County": "Tyrrell",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "19:30:00",
+    "County": "Currituck",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/16/11",
+    "Time": "19:35:00",
+    "County": "Dare",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/26/11",
+    "Time": "12:15:00",
+    "County": "Martin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/27/11",
+    "Time": "20:45:00",
+    "County": "Madison",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/27/11",
+    "Time": "22:31:00",
+    "County": "Macon",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "01:22:00",
+    "County": "Caldwell",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "01:33:00",
+    "County": "Alexander",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "13:00:00",
+    "County": "Duplin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "13:43:00",
+    "County": "Columbus",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "14:07:00",
+    "County": "Pender",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "14:10:00",
+    "County": "Pender",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "14:20:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "14:29:00",
+    "County": "Pender",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "14:30:00",
+    "County": "Martin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "14:38:00",
+    "County": "Pender",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/28/11",
+    "Time": "15:23:00",
+    "County": "Beaufort",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/6/11",
+    "Time": "09:25:00",
+    "County": "Wilson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/18/11",
+    "Time": "08:15:00",
+    "County": "New Hanover",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/18/11",
+    "Time": "15:35:00",
+    "County": "Alexander",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/26/11",
+    "Time": "19:12:00",
+    "County": "Beaufort",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/26/11",
+    "Time": "20:12:00",
+    "County": "Washington",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/26/11",
+    "Time": "21:55:00",
+    "County": "Tyrrell",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/5/11",
+    "Time": "15:20:00",
+    "County": "Wilkes",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/5/11",
+    "Time": "17:51:00",
+    "County": "Union",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/5/11",
+    "Time": "18:53:00",
+    "County": "Stanly",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/6/11",
+    "Time": "04:40:00",
+    "County": "Moore",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/6/11",
+    "Time": "17:41:00",
+    "County": "Robeson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/29/11",
+    "Time": "02:10:00",
+    "County": "Tyrrell",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "11/16/11",
+    "Time": "15:25:00",
+    "County": "Cleveland",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/16/11",
+    "Time": "17:05:00",
+    "County": "Davidson",
+    "Fujita": 2,
+    "Fatalities": 2,
+    "Injuries": 15
+  },
+  {
+    "Date": "11/16/11",
+    "Time": "22:14:00",
+    "County": "Hertford",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "1/11/12",
+    "Time": "16:21:00",
+    "County": "Rutherford",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 10
+  },
+  {
+    "Date": "1/11/12",
+    "Time": "17:03:00",
+    "County": "Burke",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 8
+  },
+  {
+    "Date": "1/11/12",
+    "Time": "17:17:00",
+    "County": "Caldwell",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/2/12",
+    "Time": "13:52:00",
+    "County": "Swain",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/2/12",
+    "Time": "18:44:00",
+    "County": "Cherokee",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/2/12",
+    "Time": "20:03:00",
+    "County": "Jackson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/3/12",
+    "Time": "01:35:00",
+    "County": "Mecklenburg",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 4
+  },
+  {
+    "Date": "3/21/12",
+    "Time": "09:00:00",
+    "County": "Washington",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/14/12",
+    "Time": "10:55:00",
+    "County": "Richmond",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/30/12",
+    "Time": "08:34:00",
+    "County": "Carteret",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/1/12",
+    "Time": "15:18:00",
+    "County": "Pasquotank",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/10/12",
+    "Time": "15:40:00",
+    "County": "Hyde",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/30/12",
+    "Time": "08:40:00",
+    "County": "Dare",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/30/12",
+    "Time": "09:01:00",
+    "County": "Dare",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/11/12",
+    "Time": "15:09:00",
+    "County": "Wilson",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "8/19/12",
+    "Time": "12:19:00",
+    "County": "Dare",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/18/12",
+    "Time": "13:38:00",
+    "County": "Wake",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/18/12",
+    "Time": "14:20:00",
+    "County": "Jones",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/1/12",
+    "Time": "15:22:00",
+    "County": "Columbus",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/1/12",
+    "Time": "15:58:00",
+    "County": "Bladen",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/1/12",
+    "Time": "16:15:00",
+    "County": "Columbus",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "10/1/12",
+    "Time": "16:18:00",
+    "County": "Bladen",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "12/26/12",
+    "Time": "13:58:00",
+    "County": "Carteret",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "2/26/13",
+    "Time": "19:18:00",
+    "County": "Johnston",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/6/13",
+    "Time": "23:22:00",
+    "County": "Brunswick",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/10/13",
+    "Time": "18:05:00",
+    "County": "Onslow",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "6/13/13",
+    "Time": "14:10:00",
+    "County": "Haywood",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "6/18/13",
+    "Time": "16:30:00",
+    "County": "Franklin",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/2/13",
+    "Time": "10:25:00",
+    "County": "Person",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/21/13",
+    "Time": "15:58:00",
+    "County": "Stokes",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/22/13",
+    "Time": "02:39:00",
+    "County": "Brunswick",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "11/26/13",
+    "Time": "21:15:00",
+    "County": "Carteret",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 2
+  },
+  {
+    "Date": "11/26/13",
+    "Time": "21:17:00",
+    "County": "Carteret",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "2/21/14",
+    "Time": "11:15:00",
+    "County": "Robeson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "2/21/14",
+    "Time": "11:38:00",
+    "County": "Robeson",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "2/21/14",
+    "Time": "12:26:00",
+    "County": "Wayne",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/29/14",
+    "Time": "18:57:00",
+    "County": "Wake",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "3/29/14",
+    "Time": "19:08:00",
+    "County": "Wake",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/7/14",
+    "Time": "13:49:00",
+    "County": "Beaufort",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 5
+  },
+  {
+    "Date": "4/7/14",
+    "Time": "14:00:00",
+    "County": "Hyde",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/24/14",
+    "Time": "13:59:00",
+    "County": "Halifax",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "14:38:00",
+    "County": "Greene",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "14:46:00",
+    "County": "Greene",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "15:18:00",
+    "County": "Pitt",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "17:20:00",
+    "County": "Bertie",
+    "Fujita": 2,
+    "Fatalities": 1,
+    "Injuries": 1
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "17:22:00",
+    "County": "Chowan",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 2
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "17:22:00",
+    "County": "Pitt",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "17:35:00",
+    "County": "Beaufort",
+    "Fujita": 3,
+    "Fatalities": 0,
+    "Injuries": 16
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "17:50:00",
+    "County": "Pasquotank",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "18:12:00",
+    "County": "Pasquotank",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/25/14",
+    "Time": "18:28:00",
+    "County": "Currituck",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/29/14",
+    "Time": "12:25:00",
+    "County": "Craven",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/29/14",
+    "Time": "13:52:00",
+    "County": "Cumberland",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/29/14",
+    "Time": "16:09:00",
+    "County": "Edgecombe",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/29/14",
+    "Time": "17:49:00",
+    "County": "Greene",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "4/29/14",
+    "Time": "18:10:00",
+    "County": "Sampson",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/15/14",
+    "Time": "04:46:00",
+    "County": "Mecklenburg",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "5/15/14",
+    "Time": "16:10:00",
+    "County": "Durham",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/3/14",
+    "Time": "14:36:00",
+    "County": "Duplin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/3/14",
+    "Time": "18:50:00",
+    "County": "Martin",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "7/3/14",
+    "Time": "21:25:00",
+    "County": "Hertford",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "9/8/14",
+    "Time": "14:45:00",
+    "County": "Duplin",
+    "Fujita": 2,
+    "Fatalities": 0,
+    "Injuries": 1
+  },
+  {
+    "Date": "10/14/14",
+    "Time": "18:48:00",
+    "County": "McDowell",
+    "Fujita": 0,
+    "Fatalities": 0,
+    "Injuries": 0
+  },
+  {
+    "Date": "12/24/14",
+    "Time": "09:30:00",
+    "County": "New Hanover",
+    "Fujita": 1,
+    "Fatalities": 0,
+    "Injuries": 1
+  }
+]
